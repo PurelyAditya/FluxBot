@@ -28,8 +28,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/fluxbot.git
-cd fluxbot
+git clone https://github.com/PurelyAditya/FluxBot.git
+cd FluxBot
 Install dependencies:
 
 FluxBot uses Node.js, so make sure you have it installed. Install the required packages with:
